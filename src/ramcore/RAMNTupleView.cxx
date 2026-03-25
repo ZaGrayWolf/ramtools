@@ -1,6 +1,7 @@
 #include "inc/ramcore/RAMNTupleView.h"
 #include <algorithm>
 
+#include <string>
 #include <cctype>
 #include <cstddef>
 #include <cstdint>
