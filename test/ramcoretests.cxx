@@ -17,6 +17,8 @@
 #include "ramcore/RAMNTupleView.h"
 #include "ramcore/SamToNTuple.h"
 #include "ramcore/SamToTTree.h"
+#include <gtest/gtest.h>
+         ^
 namespace {
 
 class ramcoreTest : public ::testing::Test {
